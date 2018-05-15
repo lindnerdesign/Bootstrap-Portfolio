@@ -1,0 +1,31 @@
+#footer {
+  bottom: 0;
+  width: 100%;
+  position: relative;
+  background-color: #b3c2bf;
+  text-align: center;
+  color:gray;
+  padding: 20px;
+  }
+
+  .footer-block {
+  }
+
+  .navbar {
+      background-color: #3b3a36;
+      padding: 10px 0px 10px 20px;
+  }
+
+  .row{
+    margin-top: 30px;
+  }
+
+  .jumbotron{
+    background-color: #e9ece5;
+    color: #3b3a36;
+    text-align: center;
+  }
+
+form {
+  margin: 50px 100px 50px 100px;
+}
